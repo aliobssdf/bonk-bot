@@ -1,0 +1,1 @@
+worker: python bonk_bot.py
